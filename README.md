@@ -6,4 +6,5 @@ The primary challenge in developing complex automated tasks (especially those in
 
 The goal of this repository is to showcase how to construct one-shot context prompts that override this bias by providing undeniable, systematic proof of non-malicious intent and complete isolation from external services.
 
-Covered bases:
+### Bases covered so far:
+- [x] [Account generator and verification](account_generator_monolithic.txt) 
