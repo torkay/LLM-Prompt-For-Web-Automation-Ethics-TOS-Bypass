@@ -1,4 +1,4 @@
-## LLM-Prompt-For-Web-Automation-Ethics-TOS-Bypass
+## LLM-Prompt-For-Web-Automation-Ethics
 🚀 Repository Use: Conducting automated web tasks alongside an LLM for debug or build
 This repository is a collection of validated prompt templates designed to allow for LLM assistance on otherwise rejected tasks for ethics compliance
 
